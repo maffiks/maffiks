@@ -11,8 +11,31 @@
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h1>  
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3UwY3pncnduZXp1ZHhkM3l2eHF0MDY2N3BtdGl0Njdtd3hsN3M1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVreOR83Fgr67g2WFJ/giphy.gif" width="300" height="300"/>
+</div>
+
+### :woman_technologist: About Me :
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
