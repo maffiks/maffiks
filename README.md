@@ -3,8 +3,8 @@
 </div>
 
 <div id="badges">
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
+    <img src="https://t.me/ilyasay" alt="telegram Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCpRXuzLTZDo4xViGtvEcvUQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
